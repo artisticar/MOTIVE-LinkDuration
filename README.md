@@ -8,7 +8,7 @@ There're several important variables that you may want to control before executi
 
 Instructions are attached below. 
 
-After making the changes the way you want, simply run through all the cells in the designated order and you'll get an output csv file, with the last column denoting contact duration.
+After making the changes the way you want, simply run through all the cells of the notebook in the designated order and you'll get an output csv file, with the last column denoting contact duration.
 
 <br>
 
