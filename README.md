@@ -1,4 +1,14 @@
-# MOTIVE_LinkDuration
+# **Vechile-to-Vehicle Link Duration Prediction**
+
+Ensemble of 3 classifiers
+
+- 5 layers residual MLP neural network
+- 3 layers MLP neural network
+- Random Forest Classifier
+
+
+
+# **Extract V2V Link Duration**
 
 Please make sure that **NumPy** and **Pandas** are installed. 
 
