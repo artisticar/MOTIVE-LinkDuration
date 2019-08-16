@@ -3,7 +3,7 @@
 Ensemble of 3 classifiers
 
 - 5 layers residual MLP neural network
-- 3 layers MLP neural network
+- Decision Tree Classifier
 - Random Forest Classifier
 
 
