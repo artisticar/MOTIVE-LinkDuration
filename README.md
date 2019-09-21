@@ -5,7 +5,6 @@ Classifiers experimented:
 - Deep Learning:
   - 5 layers residual MLP neural network
   - 3 layers MLP neural network
-<br>
 
 - Conventional ML:
   - Decision Tree
@@ -16,9 +15,9 @@ Classifiers experimented:
 
 <br>
 
-Of these models, the **'5 layers redisual MLP neural networks'** performs the best at test time.
+Of these models, **'5 layers redisual MLP neural network'** performs the best at test time.
 
-Ensemble might be considered. 
+Ensemble might be considered in the future. 
 
 <br>
 
