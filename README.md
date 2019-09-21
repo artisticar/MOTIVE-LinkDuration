@@ -6,6 +6,7 @@ Classifiers experimented:
   - 5 layers residual MLP neural network
   - 3 layers MLP neural network
 <br>
+
 - Conventional ML:
   - Decision Tree
   - Random Forest
