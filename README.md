@@ -1,12 +1,25 @@
 # **Vechile-to-Vehicle Link Duration Prediction**
 
-Ensemble of 3 classifiers
+Classifiers experimented:
 
-- 5 layers residual MLP neural network
-- Decision Tree Classifier
-- Random Forest Classifier
+- Deep Learning:
+  - 5 layers residual MLP neural network
+  - 3 layers MLP neural network
+<br>
+- Conventional ML:
+  - Decision Tree
+  - Random Forest
+  - AdaBoost
+  - XGBoost
+  - SVM
 
+<br>
 
+Of these models, the **'5 layers redisual MLP neural networks'** performs the best at test time.
+
+Ensemble might be considered. 
+
+<br>
 
 # **Extract V2V Link Duration**
 
