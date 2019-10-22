@@ -1,4 +1,4 @@
-# **Vechile-to-Vehicle Link Duration Prediction**
+# **Vehicle-to-Vehicle Link Duration Prediction**
 
 Classifiers experimented:
 
