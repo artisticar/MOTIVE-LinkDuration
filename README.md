@@ -2,7 +2,7 @@
 
 Classifiers experimented:
 
-- Deep Learning:
+- DNNs:
   - 5 layers residual MLP neural network
   - 3 layers MLP neural network
 
